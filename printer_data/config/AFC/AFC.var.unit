@@ -12,8 +12,8 @@
             "load": true,
             "prep": true,
             "tool_loaded": false,
-            "loaded_to_hub": true,
-            "material": "ABS",
+            "loaded_to_hub": false,
+            "material": null,
             "spool_id": "",
             "color": "",
             "weight": "",
@@ -21,7 +21,7 @@
             "runout_lane": "NONE",
             "filament_status": "Ready",
             "filament_status_led": "#ffffff",
-            "status": "Loaded"
+            "status": null
         },
         "lane2": {
             "name": "lane2",
