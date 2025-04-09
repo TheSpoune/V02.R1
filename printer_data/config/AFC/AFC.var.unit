@@ -21,7 +21,7 @@
             "runout_lane": "NONE",
             "filament_status": "Prep",
             "filament_status_led": "#ff0000",
-            "status": "Error"
+            "status": null
         },
         "lane2": {
             "name": "lane2",
@@ -44,7 +44,7 @@
             "runout_lane": "NONE",
             "filament_status": "Ready",
             "filament_status_led": "#ffffff",
-            "status": "ejecting"
+            "status": "Loaded"
         }
     },
     "system": {
@@ -54,7 +54,7 @@
         "num_extruders": 1,
         "extruders": {
             "extruder": {
-                "lane_loaded": ""
+                "lane_loaded": null
             }
         },
         "bypass": {
