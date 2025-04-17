@@ -44,7 +44,7 @@
             "runout_lane": "NONE",
             "filament_status": "Not Ready",
             "filament_status_led": "#ffff00",
-            "status": null
+            "status": "Tool Loading"
         }
     },
     "system": {
