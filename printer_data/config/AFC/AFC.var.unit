@@ -21,7 +21,7 @@
             "runout_lane": "NONE",
             "filament_status": "Ready",
             "filament_status_led": "#ffffff",
-            "status": "Tool Loading"
+            "status": "ejecting"
         },
         "lane2": {
             "name": "lane2",
