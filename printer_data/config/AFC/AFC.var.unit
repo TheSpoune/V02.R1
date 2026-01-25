@@ -52,7 +52,7 @@
             "runout_lane": null,
             "filament_status": "In Tool",
             "filament_status_led": "#ffff00",
-            "status": "Tooled",
+            "status": "Tool Unloading",
             "dist_hub": 70.0,
             "td1_data": {}
         }
